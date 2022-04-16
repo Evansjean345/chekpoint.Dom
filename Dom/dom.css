@@ -1,0 +1,38 @@
+body{
+    background: url(set.jpeg);
+}
+h4{
+    color: whitesmoke; margin-left:10%
+}
+b{
+    color: whitesmoke;
+    margin-left: 140px   
+}
+.place_price{
+    width: 14%
+}
+.price{
+    color: whitesmoke
+}
+.subtotal{
+    color:rgb(39, 70, 126);
+    padding-left: 80px;
+}
+button{
+    background:rgb(18, 28, 46);
+    color:whitesmoke;
+}
+#area_product{
+    margin-left: 30px;
+}
+#price_product{
+    width: 100px;
+    margin-left: 100px;
+}
+#btn_article{
+    margin-left: 100px;
+}
+.price_article{
+    color: aliceblue;
+}
+
